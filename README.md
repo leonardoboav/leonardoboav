@@ -6,7 +6,7 @@
 ##
 
 - 🔭 Atualmente atuo como Analista Atlassian 
-- 🐱‍👤 Me interesso por Análise de rede e Cybersegurança
+- 🐱‍👤 Me interesso por Redes de computadores e Cybersegurança
 - 🌱 Estou aprendendo um pouco a cada dia
 
 ##
