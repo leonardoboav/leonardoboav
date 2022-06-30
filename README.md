@@ -1,13 +1,13 @@
-### Olá, me chamo Leonardo
+### Hi, my name is Leonardo
 
 <!--
 **leonardoboav/leonardoboav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ##
 
-- 🔭 Atualmente atuo como Analista Atlassian 
-- 🐱‍👤 Me interesso por Redes de computadores e Cybersegurança
-- 🌱 Estou aprendendo um pouco a cada dia
+- 🔭 I currently work as an Atlassian Analyst 
+- 🐱‍👤 I'm interested in Computer Networks and Cybersecurity
+- 🌱 I'm learning a little bit each day
 
 ##
 
