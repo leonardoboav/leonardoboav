@@ -34,7 +34,7 @@
   <img align="center" alt="leonardoboav-Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="leonardoboav-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
   <img align="center" alt="leonardoboav-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="leonardoboav-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> 
+  <img align="center" alt="leonardoboav-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
 
   
   
