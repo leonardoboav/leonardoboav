@@ -19,9 +19,10 @@
   <h3 align="left">Languages and Tools:</h3>
   
   <img align="center" alt="leonardoboav-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />  
-  <img align="center" alt="leonardoboav-Gcp" height="30" width="40"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="leonardoboav-GCP" height="30" width="40"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" />
   <img align="center" alt="leonardoboav-Jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original.svg" /> 
   <img align="center" alt="leonardoboav-Confluence" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/confluence/confluence-original.svg" />
+  <img align="center" alt="leonardoboav-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain.svg" /> 
   <img align="center" alt="leonardoboav-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="leonardoboav-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="leonardoboav-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
